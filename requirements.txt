@@ -1,0 +1,14 @@
+python-dotenv
+psycopg2-binary
+pymongo
+qdrant-client
+pymilvus
+anthropic
+openai
+langchain
+langgraph
+langsmith
+crewai
+numpy
+pandas
+mlflow
