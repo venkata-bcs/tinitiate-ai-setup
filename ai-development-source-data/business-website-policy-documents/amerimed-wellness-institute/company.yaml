@@ -1,0 +1,90 @@
+# Fictional company profile - Amerimed Wellness Institute
+# All names, addresses, phone numbers, identifiers and people are invented
+# for AI training and demonstration. Any resemblance to real entities is coincidental.
+
+short_name: Amerimed
+legal_name: Amerimed Wellness Institute
+group_name: Amerimed Health System (a California nonprofit public benefit corporation - fictional)
+industry: Integrated healthcare delivery (hospitals, clinics, urgent care, telehealth)
+founded: 1964
+tagline: "Whole-person care, close to home."
+website: www.amerimedwellness.example
+email: patientservices@amerimedwellness.example
+phone: "1-888-555-0123"
+registration:
+  tax_status: "501(c)(3) nonprofit (fictional EIN 00-0000000)"
+  group_npi: "NPI 0000000000 (placeholder)"
+  accreditation: "Accredited by a national hospital accreditation body (illustrative)"
+colors:
+  primary: "#1D6FB8"
+  accent: "#2BB673"
+  tint: "#EAF3FB"
+disclaimer: >-
+  Amerimed Wellness Institute is a fictional healthcare organisation created for AI training and demonstration.
+  It does not provide medical care. All names, facilities, addresses and identifiers are invented.
+  Nothing in this document is medical or legal advice.
+
+headquarters:
+  name: Amerimed Pacific Campus
+  line1: "2800 Pacific Crest Boulevard"
+  city_line: "San Jose, CA 95134"
+  country: USA
+
+key_figures:
+  hospitals: 6
+  licensed_beds: 2140
+  outpatient_clinics: 48
+  urgent_care_centers: 22
+  employees: 26500
+  physicians_affiliated: 3900
+  nurses: 9800
+  annual_patient_visits: "4.1 million"
+  telehealth_visits: "620,000 per year"
+  states: [CA, OR, WA, NV]
+
+leadership:
+  - { name: "Dr. Jonathan Reyes-Whitaker, MD, MBA", title: President & Chief Executive Officer }
+  - { name: "Dr. Aisha Rahman, MD", title: Chief Medical Officer }
+  - { name: "Linda Park, RN, DNP", title: Chief Nursing Officer }
+  - { name: Marcus Bell, title: Chief Financial Officer }
+  - { name: "Dr. Helen Tsai, JD", title: Chief Compliance & Ethics Officer }
+  - { name: Gregory Lindqvist, title: Chief Privacy Officer (HIPAA Privacy Officer) }
+  - { name: Priyanka Venkataraman, title: Chief Information Security Officer (HIPAA Security Officer) }
+  - { name: Rosa Delgado, title: Chief People Officer }
+  - { name: "Dr. Samuel Okafor, MD, MPH", title: Medical Director, Infection Prevention }
+  - { name: Kenji Watanabe, title: VP Revenue Cycle & Patient Financial Services }
+
+facilities:
+  - name: Amerimed Pacific Medical Center (flagship, Level I trauma)
+    address: "2800 Pacific Crest Boulevard, San Jose, CA 95134"
+    phone: "408-555-0100"
+    beds: 520
+  - name: Amerimed Bayview Hospital
+    address: "1650 Mission Bay Terrace, San Francisco, CA 94158"
+    phone: "415-555-0140"
+    beds: 380
+  - name: Amerimed Pacific Shores Hospital
+    address: "4400 Coastline Drive, Long Beach, CA 90803"
+    phone: "562-555-0175"
+    beds: 410
+  - name: Amerimed Sacramento Valley Medical Center
+    address: "900 Capitol Grove Way, Sacramento, CA 95814"
+    phone: "916-555-0160"
+    beds: 300
+  - name: Amerimed Willamette Medical Center
+    address: "2100 Riverfront Commons, Portland, OR 97201"
+    phone: "503-555-0150"
+    beds: 290
+  - name: Amerimed Cascade Hospital
+    address: "1200 Lakeview Ridge Avenue, Seattle, WA 98109"
+    phone: "206-555-0130"
+    beds: 240
+
+clinic_examples:
+  - { name: Amerimed Urgent Care - Santa Clara, address: "3100 El Camino Plaza, Santa Clara, CA 95051" }
+  - { name: Amerimed Women's Health - Oakland, address: "540 Lakeshore Medical Row, Oakland, CA 94610" }
+  - { name: Amerimed Pediatrics - Bellevue, address: "15500 Crossroads Parkway, Bellevue, WA 98008" }
+  - { name: Amerimed Behavioral Health - Pasadena, address: "88 Arroyo Wellness Court, Pasadena, CA 91101" }
+  - { name: Amerimed Urgent Care - Henderson, address: "2250 Desert Bloom Road, Henderson, NV 89052" }
+
+service_lines: [Emergency & trauma, Cardiology & heart surgery, Oncology, Women's & maternity, Pediatrics, Orthopedics & sports medicine, Neurosciences, Behavioral health, Primary care, Urgent care, Telehealth ("Amerimed Anywhere"), Wellness & preventive medicine]

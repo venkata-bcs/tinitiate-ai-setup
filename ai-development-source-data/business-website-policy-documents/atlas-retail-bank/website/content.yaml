@@ -1,0 +1,126 @@
+# Website copy for Atlas Retail Bank (fictional). Rendered by _tools/build_sites.py
+meta_description: Atlas Retail Bank - checking, savings, mortgages and small-business banking across the East Coast since 1927.
+services_label: Banking
+footer_extra: '<a href="../documents/ATL-CUS-006-privacy-notice.pdf">Privacy notice</a><br><a href="../documents/ATL-CUS-003-schedule-of-fees.pdf">Schedule of fees</a>'
+
+home:
+  headline: Strength you can bank on.
+  intro: >-
+    From Maine to Miami, Atlas Retail Bank helps 2.3 million people and 185,000 small businesses save, borrow and grow,
+    with 162 branches, 540 fee-free ATMs and a top-rated mobile app.
+  cta: Open an account
+  cta_href: services.html
+  stats:
+    - { value: "162", label: Branches in 13 states + DC }
+    - { value: "540", label: Fee-free Atlas ATMs }
+    - { value: "3.85%", label: APY High-Yield Savings* }
+    - { value: "USD 0", label: NSF fees }
+    - { value: "1927", label: Serving the East Coast since }
+  features_title: Banking that puts you first
+  features:
+    - { title: No NSF fees, text: "We stopped charging for returned items. Overdraft fees are waived if you are overdrawn by USD 50 or less." }
+    - { title: Early Pay, text: "Get your direct deposit up to 2 days early when your employer sends it early." }
+    - { title: Zelle & Card Lock, text: "Send money in minutes and lock a lost card instantly in Atlas Mobile." }
+    - { title: Atlas Home Start, text: "Up to USD 15,000 in down-payment grants in eligible neighbourhoods." }
+  news:
+    - { date: 2026-10-01, text: "Atlas opens three new branches in Raleigh-Durham and Charleston." }
+    - { date: 2026-08-15, text: "Hurricane season: branch closure updates are posted on our Alerts page and in Atlas Mobile." }
+    - { date: 2026-07-01, text: "Updated Schedule of Fees: lower outgoing domestic wire fee online (USD 25)." }
+    - { date: 2026-04-22, text: "Atlas commits USD 2.5 billion to LMI lending under its 2026-2030 Community Commitment." }
+
+about:
+  summary: A community-minded national bank headquartered in Baltimore, serving the East Coast for nearly a century.
+  mission: Help families and small businesses on the East Coast build financial strength - honestly, simply and close to home.
+  story:
+    - >-
+      Atlas began in 1927 as Atlas Mutual Savings, a savings bank founded by Baltimore dock workers and shopkeepers. It survived
+      the Depression by never closing its doors, and became known as the bank "that holds up the neighbourhood".
+    - >-
+      Through careful mergers with community banks in Pennsylvania, New York, New England and the Carolinas, Atlas has grown to
+      USD 48.6 billion in assets. Each branch still has local lending authority and a community advisory board.
+  values:
+    - { title: Integrity, text: "Do the right thing, especially when no one is watching." }
+    - { title: Customer first, text: "No product sales quotas; recommend only what meets the customer's needs." }
+    - { title: Respect, text: "Every customer and colleague is treated with dignity." }
+    - { title: Stewardship, text: "Protect our customers' trust and the bank's safety and soundness." }
+  timeline:
+    - { year: 1927, event: "Atlas Mutual Savings opens on Pratt Street, Baltimore." }
+    - { year: 1968, event: "Converts to a national bank charter as Atlas Retail Bank, N.A." }
+    - { year: 1994, event: "Expands into Pennsylvania and Delaware." }
+    - { year: 2008, event: "Acquires Hudson Valley Savings (fictional), entering New York." }
+    - { year: 2016, event: "Enters the Carolinas and Georgia." }
+    - { year: 2022, event: "Eliminates NSF fees for all personal accounts." }
+    - { year: 2025, event: "Launches Atlas Fresh Start Checking (second-chance banking)." }
+
+services:
+  summary: Checking, savings, borrowing and business banking. *APY accurate as of 1 April 2026; rates may change. Fees may reduce earnings.
+  groups:
+    - group: Checking
+      items:
+        - { title: Atlas Everyday Checking, text: "USD 10 monthly fee, waived with USD 500 in direct deposits, a USD 1,500 balance, or age 24 or under / 65 or over." }
+        - { title: Atlas Premier Checking, text: "Interest-bearing, with ATM fee refunds and free cashier's checks. USD 25 fee waived with USD 15,000 combined." }
+        - { title: Atlas Student Checking, text: "No monthly fee for ages 13-17 with a parent or guardian as co-owner." }
+        - { title: Atlas Fresh Start Checking, text: "Second-chance account with no overdraft fees - USD 5 per month." }
+    - group: Savings
+      items:
+        - { title: High-Yield Savings, text: "3.85% APY on all balances. USD 5 fee waived with a USD 300 balance or USD 25 monthly transfer." }
+        - { title: Money Market, text: "Tiered rates up to 3.40% APY for balances of USD 100,000+." }
+        - { title: Certificates of Deposit, text: "6 to 36 months; 4.00% APY on 6-month CDs. USD 1,000 minimum." }
+    - group: Borrowing
+      items:
+        - { title: Mortgages & HELOCs, text: "Fixed and adjustable mortgages, FHA/VA, and home equity lines with local underwriting." }
+        - { title: Personal & auto loans, text: "Fixed-rate loans from USD 2,000 to USD 50,000; auto loans up to 120% LTV." }
+        - { title: Atlas Rewards Visa, text: "1.5% cash back, no annual fee, Zero Liability protection." }
+    - group: Business
+      items:
+        - { title: Business Checking, text: "Free for 12 months, then USD 15 per month, waived with a USD 5,000 balance." }
+        - { title: SBA lending, text: "SBA 7(a) and 504 loans from a Preferred Lender team (illustrative)." }
+
+policies_intro: >-
+  Account agreements, disclosures and policies of Atlas Retail Bank, N.A. (fictional). Atlas is not a real bank,
+  and these documents are samples for AI training.
+
+faq_intro: Answers to common questions about Atlas accounts and services.
+faq:
+  - { q: "What ID do I need to open an account?", a: "One unexpired government photo ID such as a driver's licence, passport or Green Card. Some IDs (e.g. Matricula Consular, IDNYC) need a secondary ID. See ATL-CUS-001." }
+  - { q: "When will my deposited check be available?", a: "Usually on the next business day. The first USD 275 is always available next day. Larger or unusual deposits may be held up to 7 business days. See ATL-CUS-004." }
+  - { q: "Does Atlas charge overdraft fees?", a: "USD 25 per item, up to 2 per day. There is no fee if you are overdrawn by USD 50 or less, and no NSF fees at all. Debit card overdrafts need your opt-in." }
+  - { q: "Someone used my debit card. What do I do?", a: "Lock your card in Atlas Mobile and call 1-800-555-0142 right away. Report within 2 business days to limit liability to USD 50; Zero Liability usually means USD 0. See ATL-CUS-005." }
+  - { q: "Can I get my money back if I was scammed on Zelle?", a: "Payments you authorised are generally not reversible, but Atlas reimburses eligible imposter scams reported within 30 days. Atlas will never ask you to send money to yourself." }
+  - { q: "How do I stop Atlas sharing my information with affiliates?", a: "Call 1-800-555-0148, visit the privacy page, or mail the opt-out form in our Privacy Notice (ATL-CUS-006)." }
+  - { q: "What happens to an account I don't use?", a: "After 12 months without activity it becomes inactive; after 24 months it is dormant. After about 3 years (varies by state), funds go to the state unclaimed property office." }
+  - { q: "Do branches close for hurricanes or snowstorms?", a: "Branches may close for public-safety reasons. Closures are posted in Atlas Mobile and on the Alerts page; ATMs and digital banking remain available." }
+
+careers:
+  summary: Build a career with a bank that has put customers and communities first since 1927.
+  benefits:
+    - { title: USD 22/hour minimum, text: "Our minimum pay for every associate, or the local minimum if higher." }
+    - { title: 16 weeks paid parental leave, text: "For birth, adoption or foster placement." }
+    - { title: No sales quotas, text: "Branch incentives balance customer satisfaction, quality and compliance." }
+    - { title: Tuition & certifications, text: "Up to USD 5,250 per year, plus CAMS, CRCM and NMLS support." }
+  jobs:
+    - { title: Personal Banker II, location: "Philadelphia, PA (Rittenhouse)", type: Full-time, ref: ATL-26-1180 }
+    - { title: Teller (Part-time), location: "Boston, MA (Back Bay)", type: Part-time, ref: ATL-26-1192 }
+    - { title: Mortgage Loan Officer (NMLS), location: "Charlotte, NC", type: Full-time, ref: ATL-26-1204 }
+    - { title: BSA/AML Investigator, location: "Baltimore, MD (hybrid)", type: Full-time, ref: ATL-26-1211 }
+    - { title: Fair Lending Data Analyst, location: "Baltimore, MD (hybrid)", type: Full-time, ref: ATL-26-1215 }
+    - { title: Fraud Operations Specialist (overnight), location: "Charlotte, NC", type: Full-time, ref: ATL-26-1222 }
+    - { title: Branch Manager, location: "Miami, FL (Brickell)", type: Full-time, ref: ATL-26-1230 }
+  eeo: >-
+    Atlas is an Equal Opportunity Employer, including disability and veterans. Offers depend on a background check and
+    fingerprinting under Section 19 of the FDI Act.
+
+contact:
+  summary: Call, visit a branch, or use secure messaging in Atlas Mobile.
+  lines:
+    - { name: Customer care, value: "1-800-555-0142", hours: "24/7" }
+    - { name: Lost or stolen cards, value: "1-800-555-0142 (option 1) or Atlas Mobile > Cards", hours: "24/7" }
+    - { name: Privacy opt-out, value: "1-800-555-0148", hours: "24/7 automated" }
+    - { name: Mortgage servicing, value: "1-800-555-0156", hours: "Mon-Fri 8am-8pm ET, Sat 9am-1pm ET" }
+    - { name: Small business, value: "1-800-555-0163", hours: "Mon-Fri 8am-8pm ET" }
+    - { name: Relay / TTY, value: "711", hours: "24/7" }
+    - { name: EthicsLine, value: "1-800-555-0119", hours: "24/7, anonymous" }
+  locations_title: Flagship branches
+  location_source: flagship_branches
+  location_fields: [name, address, phone]
+  location_headers: [Branch, Address, Phone]

@@ -1,0 +1,122 @@
+# Website copy for Amerimed Wellness Institute (fictional). Rendered by _tools/build_sites.py
+meta_description: Amerimed Wellness Institute - nonprofit hospitals, clinics, urgent care and telehealth across California, Oregon, Washington and Nevada.
+services_label: Care & Services
+footer_extra: '<a href="../documents/AMW-PAT-002-notice-of-privacy-practices.pdf">Notice of Privacy Practices</a><br><a href="../documents/AMW-PAT-003-financial-assistance-policy.pdf">Financial assistance</a>'
+
+home:
+  headline: Whole-person care, close to home.
+  intro: >-
+    Six hospitals, 48 clinics, 22 urgent care centres and 24/7 virtual care through Amerimed Anywhere - a nonprofit health
+    system caring for West Coast communities since 1964.
+  cta: Find care now
+  cta_href: services.html
+  stats:
+    - { value: "6", label: Hospitals }
+    - { value: "2,140", label: Licensed beds }
+    - { value: "70", label: Clinics & urgent care centres }
+    - { value: "4.1M", label: Patient visits a year }
+    - { value: "USD 186M", label: Charity care (FY2025) }
+  features_title: Care that fits your life
+  features:
+    - { title: Amerimed Anywhere, text: "24/7 video urgent care for USD 59 self-pay, plus virtual primary care and behavioral health." }
+    - { title: MyAmerimed, text: "Results, messages, appointments, bills and records in one secure app." }
+    - { title: Financial help, text: "Free care for households up to 300% of the federal poverty level at our California hospitals." }
+    - { title: Language access, text: "Free interpreters in 240+ languages, including ASL, 24/7." }
+  news:
+    - { date: 2026-10-20, text: "Flu and COVID-19 vaccines are available at all Amerimed clinics - walk in or book in MyAmerimed." }
+    - { date: 2026-09-12, text: "Amerimed Cascade Hospital opens a new 24-bed behavioral health unit in Seattle." }
+    - { date: 2026-06-30, text: "Annual price transparency files updated on our website." }
+    - { date: 2026-03-05, text: "Amerimed Pacific Medical Center re-verified as a Level I Trauma Center (illustrative)." }
+
+about:
+  summary: A nonprofit integrated health system serving California, Oregon, Washington and Nevada.
+  mission: To deliver whole-person care, close to home, for every community we serve - regardless of ability to pay.
+  story:
+    - >-
+      Amerimed began in 1964 as the Pacific Crest Wellness Clinic in San Jose, founded by three physicians and a public health
+      nurse to bring preventive care to farm-worker and factory families in the Santa Clara Valley.
+    - >-
+      Today Amerimed Wellness Institute has 26,500 caregivers, six hospitals from Long Beach to Seattle, and one of the West
+      Coast's largest telehealth programmes. As a 501(c)(3) nonprofit, we reinvest every dollar in care, community health and
+      education for the next generation of clinicians.
+  values:
+    - { title: Compassion, text: "We treat every patient as we would want our families treated." }
+    - { title: Accountability, text: "We measure outcomes, share them openly and learn from mistakes." }
+    - { title: Respect, text: "Care free from discrimination, in your language and honouring your culture." }
+    - { title: Excellence, text: "Evidence-based care, ambitious safety goals and continuous improvement." }
+  timeline:
+    - { year: 1964, event: "Pacific Crest Wellness Clinic opens in San Jose." }
+    - { year: 1979, event: "Amerimed Pacific Medical Center opens (now 520 beds)." }
+    - { year: 1995, event: "Merger with Bayview Community Hospital, San Francisco." }
+    - { year: 2007, event: "Expansion to Oregon with Willamette Medical Center." }
+    - { year: 2014, event: "Amerimed Cascade Hospital opens in Seattle." }
+    - { year: 2020, event: "Launch of Amerimed Anywhere 24/7 telehealth." }
+    - { year: 2026, event: "First urgent care centres open in Nevada." }
+
+services:
+  summary: Emergency, hospital, specialty, primary, urgent and virtual care. In an emergency, always call 911.
+  groups:
+    - group: Hospital & specialty care
+      items:
+        - { title: Emergency & trauma, text: "Six 24/7 emergency departments; Level I trauma at Pacific Medical Center." }
+        - { title: Heart & vascular, text: "Cardiac catheterisation, structural heart and cardiac surgery programmes." }
+        - { title: Cancer care, text: "Medical, surgical and radiation oncology with multidisciplinary tumour boards." }
+        - { title: Women's & maternity, text: "Birth centres with Level III NICUs in San Jose and Long Beach." }
+        - { title: Orthopedics, text: "Joint replacement, spine and sports medicine." }
+        - { title: Neurosciences, text: "Comprehensive stroke centre care and epilepsy monitoring." }
+    - group: Everyday care
+      items:
+        - { title: Primary care, text: "New patient appointments within 7 business days." }
+        - { title: Urgent care, text: "22 walk-in centres open 8am-8pm, 7 days a week." }
+        - { title: Pediatrics, text: "Well-child visits, vaccines and after-hours nurse advice." }
+        - { title: Behavioral health, text: "Therapy and psychiatry in person and by video within 7 business days." }
+    - group: Virtual care
+      items:
+        - { title: Amerimed Anywhere, text: "24/7 on-demand video visits in CA, OR, WA and NV." }
+        - { title: Remote patient monitoring, text: "Connected devices for heart failure, hypertension and diabetes." }
+
+policies_intro: >-
+  Patient rights, privacy, financial assistance, billing and clinical policies of Amerimed Wellness Institute (fictional).
+  These documents are samples for AI training and are not medical or legal advice.
+
+faq_intro: Answers to common patient questions about appointments, billing and privacy.
+faq:
+  - { q: "Do I need insurance to be seen?", a: "No. Emergency care is provided regardless of ability to pay. Uninsured patients get a 40% self-pay discount, a Good Faith Estimate and screening for financial assistance." }
+  - { q: "Who qualifies for free care?", a: "At our California hospitals, households up to 300% of the federal poverty level qualify for free care, with discounts above that. Oregon and Washington have their own scales. See AMW-PAT-003." }
+  - { q: "How do I get a copy of my medical records?", a: "Most records are available instantly in MyAmerimed. Otherwise contact Health Information Management; we respond within 15 days. See AMW-PAT-002." }
+  - { q: "I got a bill from an out-of-network doctor at an Amerimed hospital. Do I have to pay it?", a: "For emergency care and most care at in-network hospitals, you owe only your in-network cost-sharing. Call 1-888-555-0127 or the No Surprises Help Desk at 1-800-985-3059." }
+  - { q: "Can I use telehealth when I'm travelling?", a: "Only when you are physically in a state where your clinician is licensed (CA, OR, WA or NV)." }
+  - { q: "Can a teenager see a doctor without a parent?", a: "For some sensitive services, yes, depending on state law. In California, minors 12+ can consent to certain mental health and reproductive health services." }
+  - { q: "Will Amerimed report my medical debt to credit bureaus?", a: "No. Amerimed does not report medical debt to credit bureaus at any facility." }
+  - { q: "How do I raise a concern about my care?", a: "Speak with your nurse or clinic manager, or call Patient Experience at 1-888-555-0125. You can also contact the state health department directly." }
+
+careers:
+  summary: Join 26,500 caregivers delivering whole-person care across the West Coast.
+  benefits:
+    - { title: Nurse residency, text: "12-month paid residency for new graduate RNs, with specialty fellowships." }
+    - { title: Tuition support, text: "Up to USD 6,000 a year, plus loan-repayment help for hard-to-fill roles." }
+    - { title: Generous PTO, text: "22-32 days of PTO plus 403(b) with a 6% match." }
+    - { title: Caregiver wellbeing, text: "Code Lavender peer support, free counselling and safe-staffing commitments." }
+  jobs:
+    - { title: Registered Nurse - ICU (Night shift), location: "San Jose, CA", type: Full-time, ref: AMW-26-30418 }
+    - { title: Registered Nurse - Labor & Delivery, location: "Long Beach, CA", type: Full-time, ref: AMW-26-30422 }
+    - { title: Medical Assistant - Urgent Care, location: "Henderson, NV", type: Full-time, ref: AMW-26-30431 }
+    - { title: Psychiatric Nurse Practitioner (telehealth), location: "Remote - CA/OR/WA licence", type: Full-time, ref: AMW-26-30440 }
+    - { title: Infection Preventionist (CIC), location: "Portland, OR", type: Full-time, ref: AMW-26-30447 }
+    - { title: Patient Financial Counselor (bilingual Spanish), location: "Sacramento, CA", type: Full-time, ref: AMW-26-30452 }
+    - { title: Privacy & Compliance Auditor, location: "San Jose, CA (hybrid)", type: Full-time, ref: AMW-26-30459 }
+  eeo: Amerimed is an equal opportunity employer. Offers depend on background checks, licence verification and health screening.
+
+contact:
+  summary: Our hospitals, patient services and support lines. In an emergency, call 911.
+  lines:
+    - { name: Appointments & new patients, value: "1-888-555-0123", hours: "7 days, 7am-9pm PT" }
+    - { name: 24/7 nurse advice line, value: "1-888-555-0124", hours: "24/7" }
+    - { name: Patient experience (concerns), value: "1-888-555-0125", hours: "Mon-Fri 8am-5pm PT" }
+    - { name: Billing & financial assistance, value: "1-888-555-0127", hours: "Mon-Fri 7am-7pm, Sat 8am-12pm PT" }
+    - { name: Privacy Office, value: "1-888-555-0131", hours: "Mon-Fri 8am-5pm PT" }
+    - { name: Integrity Line, value: "1-888-555-0198", hours: "24/7, anonymous" }
+  locations_title: Our hospitals
+  location_source: facilities
+  location_fields: [name, address, phone, beds]
+  location_headers: [Hospital, Address, Phone, Beds]

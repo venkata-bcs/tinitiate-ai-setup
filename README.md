@@ -4,6 +4,9 @@ Local development stack for AI work: relational, document, cache, search, object
 streaming and vector databases — all started from one Docker Compose file,
 `tinitiate-ai-onboarding.yml`.
 
+Sample datasets for these services are in `ai-development-source-data/` — see
+[source-data-readme.md](source-data-readme.md).
+
 > **Local development only.** Every service uses the shared default credentials below.
 > Change them before exposing any port outside your machine.
 
@@ -46,6 +49,8 @@ REDIS_PORT=16379
 | Redis 7 | `tinitiate-ai-redis` | 6379 | *(none / `default`)* | `ai_admin_pw` |
 | Elasticsearch 8.15 | `tinitiate-ai-elasticsearch` | 9200 | `elastic` | `ai_admin_pw` |
 | MinIO | `tinitiate-ai-minio` | 9002 (API), 9003 (console) | `ai_admin` | `ai_admin_pw` |
+| MinIO seed job | `tinitiate-ai-minio-seed` | *(runs once per `up`, then exits)* | `ai_admin` | `ai_admin_pw` |
+| Company websites (nginx) | `tinitiate-ai-websites` | 8080 | — | — |
 | Kafka 3.8 (KRaft) | `tinitiate-ai-kafka` | 9092 | `ai_admin` | `ai_admin_pw` |
 | Qdrant | `tinitiate-ai-vectordb` | 6333 (HTTP), 6334 (gRPC) | — | API key `ai_admin_pw` |
 | Milvus 2.4 | `tinitiate-ai-milvus` | 19530 (gRPC), 9091 (metrics) | `root` | `Milvus` *(Milvus default — see below)* |
@@ -94,6 +99,25 @@ Python: `Elasticsearch("http://localhost:9200", basic_auth=("elastic", "ai_admin
 * Web console: http://localhost:9003 — log in with `ai_admin` / `ai_admin_pw`
 * S3 endpoint: `http://localhost:9002`, access key `ai_admin`, secret key `ai_admin_pw`
 
+#### MinIO seed job (source data)
+* Image `quay.io/minio/mc:latest`; runs after MinIO is healthy on every `docker compose up`, then exits
+* Copies `ai-development-source-data/` into bucket **`ai-source-data`** (override with `SEED_BUCKET`), keeping the folder structure
+* Only new or changed files are uploaded; objects you add to the bucket yourself are never deleted. `_tools/` and Python caches are skipped
+* Re-run without restarting anything (e.g. after pulling new data files):
+```bash
+docker compose -f tinitiate-ai-onboarding.yml run --rm minio-seed
+docker compose -f tinitiate-ai-onboarding.yml logs minio-seed     # see what was copied
+```
+Python (`boto3`): `boto3.client("s3", endpoint_url="http://localhost:9002", aws_access_key_id="ai_admin", aws_secret_access_key="ai_admin_pw")`, then e.g. `get_object(Bucket="ai-source-data", Key="business-data-dumps/indian_tech_jobs_2026.csv")`
+
+#### Company websites
+* Image `nginx:1.27-alpine`, config [docker/websites/nginx.conf](docker/websites/nginx.conf)
+* Port env var: `WEBSITES_PORT` (default `8080`)
+* Serves `ai-development-source-data/business-website-policy-documents/` (bind-mounted read-only) at
+  **http://localhost:8080/business-website-policy-documents/** — a folder listing of all companies
+* `/business-website-policy-documents/<company>/` opens that company's site (`<company>/website/index.html`); its policy PDFs are linked from the site
+* New or rebuilt company folders appear immediately — no restart needed
+
 #### Kafka
 * Image `apache/kafka:3.8.0`, single-node KRaft (no ZooKeeper), volume `kafka_data`
 * Port env var: `KAFKA_PORT` (default `9092`)
@@ -139,6 +163,8 @@ client.update_password("root", "Milvus", "ai_admin_pw")
 ### Volumes
 `postgres_data`, `mongo_data`, `redis_data`, `elasticsearch_data`, `minio_data`, `kafka_data`,
 `vectordb_data`, `milvus_etcd_data`, `milvus_minio_data`, `milvus_data`
+
+The source data in MinIO lives in `minio_data`; `down -v` deletes it, and the next `up` seeds it again.
 
 ### Troubleshooting
 * **Changed a password but login still fails** — Postgres, MongoDB, Elasticsearch and MinIO only apply credentials when their volume is first created. Run `docker compose -f tinitiate-ai-onboarding.yml down -v` (deletes data) and start again.

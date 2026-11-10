@@ -1,0 +1,23 @@
+op,customer_id,first_name,last_name,email,phone,address_line,city,state,country,postal_code,created_at,updated_at
+I,275,Jacob,Hernandez,hallmegan@example.com,+1-941-587-2697x728,93388 Gary Crescent,East Jimmyville,South Dakota,India,85609,2026-08-10T01:27:28.422912+00:00,2026-08-10T01:27:28.422912+00:00
+I,276,Lisa,Hodge,morrisclaudia@example.net,220-589-6688x59755,03530 Mcdaniel Expressway,North Kevinville,Michigan,India,79528,2026-08-09T22:15:47.423665+00:00,2026-08-09T22:15:47.423665+00:00
+I,277,Samantha,Butler,daniel27@example.net,(928)481-3069,885 James Camp,Alexandriafurt,Arizona,India,31288,2026-08-10T12:44:59.424096+00:00,2026-08-10T12:44:59.424096+00:00
+I,278,Maria,Vega,crawfordkimberly@example.com,880.579.2596x190,81014 Brian Inlet,Haneyside,South Dakota,India,40461,2026-08-10T00:34:19.424391+00:00,2026-08-10T00:34:19.424391+00:00
+I,279,Emily,Martinez,wcampbell@example.org,5873239464,16288 Carl Circles,South Raymondmouth,Nebraska,India,60948,2026-08-11T17:41:02.424762+00:00,2026-08-11T17:41:02.424762+00:00
+I,280,Tiffany,Fowler,gbuck@example.org,726.882.2719,63506 Jacob Avenue Apt. 167,Lake Ericashire,Alaska,India,85791,2026-08-09T21:30:40.425066+00:00,2026-08-09T21:30:40.425066+00:00
+I,281,Shelly,Allen,elawson@example.org,(417)243-7202x6062,953 Alyssa Pass Apt. 960,Kaylamouth,Connecticut,Mexico,48750,2026-08-11T14:59:14.425384+00:00,2026-08-11T14:59:14.425384+00:00
+I,282,Carlos,Miller,pmartinez@example.com,421-282-2454,1919 Richard Loop,New Bradleytown,New Jersey,India,30825,2026-08-11T04:17:19.425695+00:00,2026-08-11T04:17:19.425695+00:00
+I,283,Kevin,Miller,nathanielfarmer@example.net,001-926-331-2860,391 Dan Gardens,Port Jenniferfort,Montana,Guadeloupe,55969,2026-08-11T05:19:02.425997+00:00,2026-08-11T05:19:02.425997+00:00
+I,284,Shannon,Brown,briannasmith@example.com,619-512-1435x87765,08231 Williams Mills,North Ronald,Mississippi,Holy See (Vatican City State),25301,2026-08-09T23:22:03.426334+00:00,2026-08-09T23:22:03.426334+00:00
+I,285,Margaret,Johnson,christopherlawrence@example.net,001-709-774-8739x67240,2705 Thompson Cape,Lake Lacey,Kansas,India,29210,2026-08-10T10:04:11.426689+00:00,2026-08-10T10:04:11.426689+00:00
+I,286,Melissa,Browning,johnsonhannah@example.net,(489)724-6902x70054,906 Victoria Divide Suite 076,Karenton,Arkansas,India,32461,2026-08-10T13:00:38.427062+00:00,2026-08-10T13:00:38.427062+00:00
+U,77,Kristen,Rush,peterbooth@example.net,(438)684-5688x0450,08923 Lisa Rapids Apt. 544,Pageville,Hawaii,India,48490,,2026-08-11T19:31:39.422871+00:00
+U,144,Cynthia,Mitchell,rebecca09@example.com,+1-372-621-5160x93541,0903 Michael Islands,Evansborough,Colorado,India,36253,,2026-08-11T19:31:39.422871+00:00
+U,10,Nichole,Collins,nmahoney@example.net,491.804.7884,682 Christopher Hills,Kimberlyview,Missouri,India,06644,,2026-08-11T19:31:39.422871+00:00
+U,46,Matthew,Walls,batesbrian@example.com,455.415.5760,94343 Mclaughlin Pass,Kimberlyside,Kentucky,India,43988,,2026-08-11T19:31:39.422871+00:00
+U,136,Christopher,King,hflynn@example.net,001-568-799-8070x760,1988 Megan Circles Apt. 356,Lake Jamesborough,Alabama,India,23073,,2026-08-11T19:31:39.422871+00:00
+U,149,Cynthia,Whitaker,yrocha@example.net,963.802.3099x473,9645 Raymond Plain,Goodwinfurt,New Jersey,India,52505,,2026-08-11T19:31:39.422871+00:00
+U,269,Jackson,Parker,nathanbrooks@example.net,+1-868-218-3719x703,238 Connor Common Apt. 404,West Ryan,Nebraska,India,83026,,2026-08-11T19:31:39.422871+00:00
+U,74,Rodney,Jones,udunn@example.net,366-731-9693x4820,356 Cummings Run Apt. 516,New Tinahaven,New Mexico,India,82788,,2026-08-11T19:31:39.422871+00:00
+D,234,,,,,,,,,,,2026-08-11T19:31:39.422871+00:00
+D,262,,,,,,,,,,,2026-08-11T19:31:39.422871+00:00

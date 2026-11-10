@@ -1,0 +1,96 @@
+# Fictional company profile - Atlas Retail Bank
+# All names, addresses, phone numbers, routing/registration numbers and people are invented
+# for AI training and demonstration. Any resemblance to real entities is coincidental.
+# Atlas Retail Bank is NOT a real bank and is NOT FDIC-insured.
+
+short_name: Atlas
+legal_name: Atlas Retail Bank, N.A.
+group_name: Atlas Financial Holdings, Inc.
+industry: Retail and small-business banking
+founded: 1927
+tagline: "Strength you can bank on."
+website: www.atlasretailbank.example
+email: customercare@atlasretailbank.example
+phone: "1-800-555-0142"
+registration:
+  charter: "National bank charter (fictional), supervised by the OCC"
+  fdic_cert: "FDIC Cert. No. 99999 (fictional)"
+  routing_number: "000000000 (placeholder - not a valid ABA number)"
+  nmls_id: "NMLS #9990001 (fictional)"
+colors:
+  primary: "#0F4C3A"
+  accent: "#C9A227"
+  tint: "#EEF5F1"
+disclaimer: >-
+  Atlas Retail Bank is a fictional bank created for AI training and demonstration. It is not a real
+  financial institution and its deposits are not FDIC-insured. All names, addresses and numbers are invented.
+
+headquarters:
+  name: Atlas Tower
+  line1: "1450 Harborview Avenue"
+  city_line: "Baltimore, MD 21202"
+  country: USA
+
+key_figures:
+  total_assets_usd: "48.6 billion"
+  deposits_usd: "39.2 billion"
+  branches: 162
+  atms: 540
+  employees: 7400
+  retail_customers: "2.3 million"
+  small_business_customers: 185000
+  states: [ME, MA, CT, NY, NJ, PA, DE, MD, VA, NC, SC, GA, FL, DC]
+
+leadership:
+  - { name: Margaret Ellison-Hart, title: Chair, President & Chief Executive Officer }
+  - { name: David Okonkwo, title: Chief Financial Officer }
+  - { name: Sandra Whitfield, title: Chief Risk Officer }
+  - { name: Elena Vasquez-Moore, title: Chief Compliance Officer }
+  - { name: Raymond Castellano, title: BSA/AML Officer }
+  - { name: Tanya Brooks, title: Chief Human Resources Officer }
+  - { name: Kevin Nakamura, title: Chief Information Officer }
+  - { name: Olivia Grant-Pierce, title: Chief Information Security Officer }
+  - { name: Marcus Delacroix, title: Head of Consumer Banking }
+  - { name: Hannah Feldstein, title: Head of Lending & Fair Lending Officer }
+  - { name: Jerome Whitaker, title: CRA Officer }
+
+regional_offices:
+  - region: New England
+    address: "200 Commonwealth Wharf, Boston, MA 02110"
+    phone: "617-555-0130"
+    head: Patrick O'Donnell, Regional President
+    branches: 24
+  - region: New York Metro
+    address: "775 Lexington Commons, 18th Floor, New York, NY 10022"
+    phone: "212-555-0160"
+    head: Simone Achterberg, Regional President
+    branches: 38
+  - region: Mid-Atlantic (HQ region)
+    address: "1450 Harborview Avenue, Baltimore, MD 21202"
+    phone: "410-555-0100"
+    head: Darnell Hughes, Regional President
+    branches: 41
+  - region: Carolinas
+    address: "310 Tryon Crossing, Suite 1200, Charlotte, NC 28202"
+    phone: "704-555-0185"
+    head: Caroline Beaumont, Regional President
+    branches: 27
+  - region: Southeast
+    address: "1100 Peachtree Landing, Atlanta, GA 30309 / 85 Biscayne Point, Miami, FL 33131"
+    phone: "404-555-0170"
+    head: Luis Ortega-Ramos, Regional President
+    branches: 32
+
+flagship_branches:
+  - { name: Inner Harbor Flagship, address: "1450 Harborview Avenue, Baltimore, MD 21202", phone: "410-555-0101" }
+  - { name: Midtown East, address: "775 Lexington Commons, New York, NY 10022", phone: "212-555-0161" }
+  - { name: Back Bay, address: "418 Newbury Row, Boston, MA 02115", phone: "617-555-0131" }
+  - { name: Rittenhouse, address: "1720 Walnut Square, Philadelphia, PA 19103", phone: "215-555-0145" }
+  - { name: Old Town Alexandria, address: "302 King Merchant Street, Alexandria, VA 22314", phone: "703-555-0152" }
+  - { name: Uptown Charlotte, address: "310 Tryon Crossing, Charlotte, NC 28202", phone: "704-555-0186" }
+  - { name: Brickell, address: "85 Biscayne Point, Miami, FL 33131", phone: "305-555-0190" }
+
+products:
+  deposits: [Atlas Everyday Checking, Atlas Premier Checking, Atlas Student Checking, Atlas High-Yield Savings, Certificates of Deposit, Money Market, Business Checking]
+  lending: [Personal Loans, Home Mortgages, Home Equity Lines of Credit, Auto Loans, Atlas Rewards Visa credit card, SBA 7(a) and 504 loans]
+  digital: [Atlas Mobile app, Online Banking, Zelle, Mobile Check Deposit, Card Lock]

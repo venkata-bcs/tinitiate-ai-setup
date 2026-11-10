@@ -87,8 +87,52 @@ services:
     command: minio server /data --console-address ":9001"
     healthcheck:
       test: ["CMD", "mc", "ready", "local"]
-      interval: 30s
+      interval: 10s
       timeout: 20s
+      start_period: 10s
+      retries: 6
+
+  # One-shot job: copies ai-development-source-data/ into the MinIO bucket on every
+  # `docker compose up`. Only new or changed files are uploaded; objects students add
+  # themselves are never deleted. Re-run on its own with:
+  #   docker compose -f tinitiate-ai-onboarding.yml run --rm minio-seed
+  minio-seed:
+    image: quay.io/minio/mc:latest
+    container_name: tinitiate-ai-minio-seed
+    restart: "no"
+    depends_on:
+      minio:
+        condition: service_healthy
+    environment:
+      SEED_BUCKET: ${SEED_BUCKET:-ai-source-data}
+    volumes:
+      - ./ai-development-source-data:/source-data:ro
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        set -e
+        mc alias set local http://minio:9000 ai_admin ai_admin_pw
+        mc mb --ignore-existing "local/$$SEED_BUCKET"
+        mc mirror --overwrite           --exclude "_tools/*" --exclude "*/_tools/*"           --exclude "*/__pycache__/*" --exclude "*.pyc"           /source-data "local/$$SEED_BUCKET"
+        echo "Seeded bucket $$SEED_BUCKET:"
+        mc du "local/$$SEED_BUCKET"
+
+  # Static web server for the company websites and their policy PDFs:
+  #   http://localhost:8080/business-website-policy-documents/
+  # The folder is bind-mounted, so new or rebuilt sites appear without a restart.
+  websites:
+    image: nginx:1.27-alpine
+    container_name: tinitiate-ai-websites
+    restart: unless-stopped
+    ports:
+      - "${WEBSITES_PORT:-8080}:80"
+    volumes:
+      - ./ai-development-source-data/business-website-policy-documents:/usr/share/nginx/html/business-website-policy-documents:ro
+      - ./docker/websites/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://127.0.0.1/business-website-policy-documents/"]
+      interval: 15s
+      timeout: 5s
       retries: 3
 
   kafka:

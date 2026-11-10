@@ -1,0 +1,23 @@
+op,customer_id,first_name,last_name,email,phone,address_line,city,state,country,postal_code,created_at,updated_at
+I,251,Justin,Parker,floresgreg@example.net,(517)548-0459x548,7379 Donald Track,Catherineburgh,Massachusetts,India,35097,2026-08-11T04:37:19.350849+00:00,2026-08-11T04:37:19.350849+00:00
+I,252,Alex,Phillips,paul39@example.org,673-618-5596x5947,7211 Koch Wells,Jonathanstad,Louisiana,India,56069,2026-08-11T10:33:17.351495+00:00,2026-08-11T10:33:17.351495+00:00
+I,253,John,Garcia,robertmoore@example.com,001-654-238-0085x80866,3483 Hamilton Cape,New Rebecca,Georgia,Gambia,27143,2026-08-10T21:05:02.351825+00:00,2026-08-10T21:05:02.351825+00:00
+I,254,Shannon,Jenkins,sandra47@example.org,532.598.2369,21081 Allen Passage,Wheelerside,South Carolina,India,25699,2026-08-10T23:23:50.352188+00:00,2026-08-10T23:23:50.352188+00:00
+I,255,Valerie,Garza,ifigueroa@example.net,(455)831-9756x41424,947 Frank Crossroad Suite 046,New Chad,Montana,Turkey,77501,2026-08-10T21:18:37.352507+00:00,2026-08-10T21:18:37.352507+00:00
+I,256,Darren,Murray,schmidtbriana@example.org,2053183607,43616 Jared Grove,Christopherfort,Iowa,India,00514,2026-08-10T14:00:00.352814+00:00,2026-08-10T14:00:00.352814+00:00
+I,257,Christine,Richard,yatesvalerie@example.com,721.636.1441x2667,8531 Bowers Islands Suite 739,East Sean,Nebraska,Dominica,87733,2026-08-10T17:45:57.353148+00:00,2026-08-10T17:45:57.353148+00:00
+I,258,Claudia,Castro,tara39@example.com,305-331-9166x4313,8845 James Park,South Stephenville,Wyoming,India,98152,2026-08-10T01:13:08.353510+00:00,2026-08-10T01:13:08.353510+00:00
+I,259,Rachel,Hoover,evansjennifer@example.net,657.968.5430,6211 Huang Gateway,Jenniferside,South Dakota,Honduras,25541,2026-08-09T23:21:26.353785+00:00,2026-08-09T23:21:26.353785+00:00
+I,260,Brenda,Sanchez,terrywesley@example.org,+1-280-323-2898x43544,903 Amanda Spurs Suite 849,Port Kimberly,Rhode Island,India,05396,2026-08-10T09:25:15.354125+00:00,2026-08-10T09:25:15.354125+00:00
+I,261,Christopher,Ellison,vlee@example.net,882.292.8747,39898 Ashley Dale,Garzafort,Texas,French Guiana,14290,2026-08-10T04:46:21.354466+00:00,2026-08-10T04:46:21.354466+00:00
+I,262,Hannah,Davis,mcdonaldelizabeth@example.net,001-733-281-4093x01678,07036 Joy Villages,North Erin,West Virginia,India,00555,2026-08-10T14:59:03.354778+00:00,2026-08-10T14:59:03.354778+00:00
+U,66,Jerry,Vang,vedwards@example.org,+1-516-773-8470x47416,84144 Douglas Turnpike,Port Joshua,Maine,India,44126,,2026-08-11T19:31:37.350812+00:00
+U,34,Katherine,Stephens,thomas21@example.net,(575)884-2660,6737 Amy Glens Apt. 552,New Joyce,Maine,India,92045,,2026-08-11T19:31:37.350812+00:00
+U,76,Jennifer,Reed,lisanunez@example.org,599-856-9151x6363,9841 Oliver Tunnel,Mindyton,North Dakota,India,56569,,2026-08-11T19:31:37.350812+00:00
+U,245,Charles,Ho,kimberlymartin@example.com,(810)472-7554,091 Howell Light Apt. 139,Jeffreyhaven,Washington,India,15547,,2026-08-11T19:31:37.350812+00:00
+U,7,Lori,Wheeler,lsaunders@example.org,001-945-405-4389x153,63491 Phillip Turnpike Apt. 154,New Vanessafort,Arizona,India,68011,,2026-08-11T19:31:37.350812+00:00
+U,104,Wyatt,Graham,deborah48@example.org,913-676-6587x221,4424 Jamie Road Apt. 411,Charleston,Arkansas,India,98021,,2026-08-11T19:31:37.350812+00:00
+U,218,Drew,Shaffer,allenpaula@example.org,741-501-1868x96672,94091 Kennedy Fall Suite 217,Robertfort,Alabama,India,63721,,2026-08-11T19:31:37.350812+00:00
+U,164,James,Nelson,uolson@example.org,001-631-789-9920x941,5917 Rebecca Course,Gregorystad,Delaware,India,51579,,2026-08-11T19:31:37.350812+00:00
+D,36,,,,,,,,,,,2026-08-11T19:31:37.350812+00:00
+D,126,,,,,,,,,,,2026-08-11T19:31:37.350812+00:00

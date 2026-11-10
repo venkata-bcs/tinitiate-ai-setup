@@ -1,0 +1,106 @@
+# Fictional company profile - OceanX Logistics
+# All names, addresses, phone numbers, registration numbers and people are invented
+# for AI training and demonstration. Any resemblance to real entities is coincidental.
+
+short_name: OceanX
+legal_name: OceanX Logistics Pte. Ltd.
+group_name: OceanX Logistics Group
+industry: Ocean container shipping, NVOCC and integrated logistics
+founded: 1998
+tagline: "Every ocean. One promise."
+website: www.oceanxlogistics.example
+email: info@oceanxlogistics.example
+phone: "+65 6555 0100"
+registration:
+  singapore_uen: "199804417K (fictional)"
+  us_fmc_license: "FMC OTI No. 029911NF (fictional)"
+  scac_code: "OCXL (fictional)"
+colors:
+  primary: "#0B2545"
+  accent: "#13A89E"
+  tint: "#E8F6F5"
+disclaimer: >-
+  OceanX Logistics is a fictional company created for AI training and demonstration.
+  All names, addresses, vessels, registration numbers and figures are invented.
+
+headquarters:
+  name: Meridian Harbour Tower
+  line1: "18 Harbourfront Quay, #24-01 Meridian Harbour Tower"
+  city_line: "Singapore 098631"
+  country: Singapore
+
+key_figures:
+  employees_shore: 4850
+  seafarers: 6200
+  owned_vessels: 38
+  chartered_vessels: 21
+  fleet_capacity_teu: 412000
+  containers_owned_teu: 890000
+  ports_served: 214
+  countries_with_offices: 46
+  annual_revenue_usd: "8.4 billion (FY2025)"
+
+leadership:
+  - { name: Adrian Koh Wei Ming, title: Group Chief Executive Officer }
+  - { name: Priya Raghunathan, title: Chief Financial Officer }
+  - { name: Capt. Henrik Vestergaard, title: Chief Operating Officer }
+  - { name: Margaret Osei-Bonsu, title: Chief Compliance & Legal Officer }
+  - { name: Zhou Lina, title: Chief People Officer }
+  - { name: Capt. Rafael Duarte, title: Director, Fleet & Marine Safety (Designated Person Ashore) }
+  - { name: Sebastian Lindqvist, title: Chief Commercial Officer }
+  - { name: Anika Deshpande, title: Chief Information Security Officer }
+  - { name: Thomas Brennan-Ahl, title: Data Protection Officer }
+
+regional_offices:
+  - region: China
+    entity: OceanX Logistics (Shanghai) Co., Ltd.
+    address: "Room 3105, Bund Gateway Centre, 1288 Waima Road, Huangpu District, Shanghai 200002, PRC"
+    phone: "+86 21 5550 7700"
+    contact: Chen Haoran, Managing Director - Greater China
+  - region: United States
+    entity: OceanX Logistics (USA) Inc.
+    address: "2400 Harbor Gateway Drive, Suite 900, Long Beach, CA 90802, USA"
+    phone: "+1 562 555 0190"
+    contact: Danielle Moreau, President - Americas
+  - region: European Union
+    entity: OceanX Logistics Europe B.V.
+    address: "Waalhaven Pier Building, Pierkade 41, 3089 KN Rotterdam, The Netherlands"
+    phone: "+31 10 555 4400"
+    contact: Joris van der Velde, Managing Director - Europe
+  - region: India
+    entity: OceanX Logistics India Pvt. Ltd.
+    address: "Level 12, Seawoods Trade Centre, Sector 40, Navi Mumbai, Maharashtra 400706, India"
+    phone: "+91 22 5550 3300"
+    contact: Rohan Mehta-Kulkarni, Managing Director - South Asia
+  - region: Singapore & South-East Asia
+    entity: OceanX Logistics Pte. Ltd.
+    address: "18 Harbourfront Quay, #24-01 Meridian Harbour Tower, Singapore 098631"
+    phone: "+65 6555 0100"
+    contact: Nurul Aisyah binte Rahman, Head of Customer Experience - SEA
+
+fleet_examples:
+  - { name: OX Meridian, type: Container ship, teu: 15200, flag: Singapore, built: 2019 }
+  - { name: OX Pacifica, type: Container ship, teu: 14000, flag: Singapore, built: 2017 }
+  - { name: OX Coral Bay, type: Container ship, teu: 8500, flag: Liberia, built: 2014 }
+  - { name: OX Nordlys, type: Container ship (LNG dual-fuel), teu: 16000, flag: Marshall Islands, built: 2024 }
+  - { name: OX Monsoon, type: Feeder container ship, teu: 2700, flag: Singapore, built: 2012 }
+  - { name: OX Arabian Star, type: Container ship, teu: 9800, flag: Panama, built: 2016 }
+
+services:
+  - FCL (full container load) ocean freight
+  - LCL (less than container load) consolidation
+  - Reefer / cold-chain shipping
+  - Project and break-bulk cargo
+  - Customs brokerage
+  - Inland haulage and rail
+  - Warehousing and distribution
+  - Cargo insurance (arranged via OceanX Marine Cover)
+  - Digital booking & tracking portal "OX Navigator"
+
+trade_lanes:
+  - Asia - North America (Transpacific)
+  - Asia - North Europe
+  - Asia - Mediterranean
+  - Intra-Asia
+  - India Subcontinent - Middle East - Europe
+  - Transatlantic

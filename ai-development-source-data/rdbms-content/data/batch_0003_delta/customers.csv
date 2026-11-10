@@ -1,0 +1,23 @@
+op,customer_id,first_name,last_name,email,phone,address_line,city,state,country,postal_code,created_at,updated_at
+I,263,Katherine,Rodriguez,johnmathis@example.org,+1-549-909-2937x5364,848 Deanna Throughway Suite 677,Lake Emma,Kentucky,India,55747,2026-08-11T19:09:31.310810+00:00,2026-08-11T19:09:31.310810+00:00
+I,264,Benjamin,Cantrell,awilkerson@example.org,(351)948-6840x59781,2723 Cummings Ford Suite 662,Kathleenborough,Nevada,Switzerland,56054,2026-08-11T02:35:38.311414+00:00,2026-08-11T02:35:38.311414+00:00
+I,265,Courtney,Phillips,gjordan@example.com,537-857-9668x3372,7322 Dean Garden,Port Catherine,Alabama,India,80631,2026-08-10T16:51:54.311777+00:00,2026-08-10T16:51:54.311777+00:00
+I,266,Robert,Brewer,brianortiz@example.net,554.280.6088,2242 Adam Alley Apt. 650,Lisamouth,New York,Taiwan,41208,2026-08-10T20:01:37.312121+00:00,2026-08-10T20:01:37.312121+00:00
+I,267,Deborah,Burton,bartlettandrew@example.net,001-560-735-7053,0091 Collins Extensions,Meganshire,Pennsylvania,India,52345,2026-08-11T07:55:43.312505+00:00,2026-08-11T07:55:43.312505+00:00
+I,268,Amy,Buckley,sjennings@example.org,+1-504-379-3833,1267 Terri Centers,New Christopher,South Carolina,India,34307,2026-08-09T22:58:12.312858+00:00,2026-08-09T22:58:12.312858+00:00
+I,269,Kevin,Short,nyu@example.net,420.854.7475,06088 Rachel Crossroad,Johnbury,Indiana,Djibouti,72583,2026-08-11T00:30:10.313148+00:00,2026-08-11T00:30:10.313148+00:00
+I,270,Cynthia,Massey,misty22@example.net,996.506.0017,59883 Christian Port,Keyborough,Louisiana,Latvia,37725,2026-08-10T03:39:15.313441+00:00,2026-08-10T03:39:15.313441+00:00
+I,271,Jason,Williams,randy04@example.org,+1-266-862-3972x0559,759 Spencer Mountains,South Jaybury,Arkansas,Svalbard & Jan Mayen Islands,97052,2026-08-11T04:11:48.313743+00:00,2026-08-11T04:11:48.313743+00:00
+I,272,James,Sosa,dreed@example.org,(459)945-2225x0622,90951 Brown Creek,New Jacobland,Rhode Island,India,47494,2026-08-10T14:29:15.314038+00:00,2026-08-10T14:29:15.314038+00:00
+I,273,Belinda,Miller,rodriguezsarah@example.net,7533267485,29940 Williams Keys Apt. 375,Josebury,Wisconsin,India,89287,2026-08-11T05:29:19.314652+00:00,2026-08-11T05:29:19.314652+00:00
+I,274,Daniel,Andrews,brenda55@example.com,001-271-451-4885x13730,31968 John Wells Apt. 713,Mariomouth,Wyoming,India,46508,2026-08-11T07:53:41.315312+00:00,2026-08-11T07:53:41.315312+00:00
+U,205,Deborah,Stout,bobby02@example.net,001-623-938-7023x54865,6934 Norris Oval Suite 049,Lake Cathy,Arkansas,India,38440,,2026-08-11T19:31:38.310777+00:00
+U,253,Jason,Coleman,zjones@example.net,+1-634-627-4479,645 Robert Crescent Apt. 026,South Michaeltown,Georgia,India,78923,,2026-08-11T19:31:38.310777+00:00
+U,114,Nicholas,Li,justin47@example.org,770-204-2991x56201,83893 Stephen Brook Suite 178,New Deborah,Georgia,India,42631,,2026-08-11T19:31:38.310777+00:00
+U,117,David,Thompson,clopez@example.net,+1-322-685-6489x2760,1394 Keith Lake,Erikamouth,Michigan,India,53456,,2026-08-11T19:31:38.310777+00:00
+U,70,Bill,Vargas,darren60@example.org,923-467-7105x8271,98930 Kevin Summit Suite 478,South Brad,Michigan,India,78643,,2026-08-11T19:31:38.310777+00:00
+U,209,William,Harvey,christine32@example.com,(594)246-1435x227,487 Ramirez Estate Apt. 858,West Ashleyberg,Minnesota,India,68720,,2026-08-11T19:31:38.310777+00:00
+U,56,Joseph,Weaver,emily67@example.net,900.309.8501x2628,921 Ramirez Ports,New Maria,Arizona,India,39383,,2026-08-11T19:31:38.310777+00:00
+U,242,Christopher,Bright,ericlamb@example.com,001-988-287-9220x23830,48776 Daniel Summit Suite 602,Braunborough,Florida,India,27684,,2026-08-11T19:31:38.310777+00:00
+D,204,,,,,,,,,,,2026-08-11T19:31:38.310777+00:00
+D,257,,,,,,,,,,,2026-08-11T19:31:38.310777+00:00

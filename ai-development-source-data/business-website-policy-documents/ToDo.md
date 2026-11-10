@@ -1,0 +1,172 @@
+# Company Policy Documents
+> (c) Venkata Bhattaram
+
+## Create Company Policy documents for a OceanX logistics, we are ocean shipping company
+- Create HR documents
+    - Employee handbook / code of conduct
+    - Recruitment, onboarding & offboarding (shore staff)
+    - Leave, holidays & working hours (per country office)
+    - Compensation, benefits & expense reimbursement
+    - Performance review & disciplinary procedure
+    - Anti-harassment, diversity & equal opportunity
+    - Remote / hybrid work policy
+    - Whistleblower policy
+    - Training & certification policy
+- Create Customer Documents (Bunch of PDFs, Website Pages)
+    - onboarding
+        - KYC / customer due diligence
+        - Credit application & credit terms
+        - Account setup & portal access
+    - Payments in China, USA, EU, India, Singapore
+        - Accepted payment methods & currencies per region
+        - Invoicing, payment terms & late payment charges
+        - Taxes (VAT / GST / sales tax) per region
+        - FX / currency conversion policy
+    - Refund, Dispute  Policy
+    - Customs policy
+        - Required documents (commercial invoice, packing list, certificate of origin)
+        - Customs brokerage services
+        - Duties & taxes responsibility (Incoterms)
+    - Booking & cancellation policy
+    - Bill of Lading terms & conditions
+    - Tariffs, surcharges & accessorial charges (BAF, CAF, THC, PSS)
+    - Demurrage & detention policy
+    - Cargo claims, loss & damage policy
+    - Cargo insurance policy
+    - Dangerous goods / hazardous cargo policy
+    - Prohibited & restricted items
+    - Reefer (refrigerated) cargo policy
+    - Oversized / out-of-gauge / break-bulk cargo
+    - Shipment tracking & notifications
+    - Customer service SLAs & escalation process
+    - FAQs
+- Fleet
+    - Vessel maintenance & dry-docking schedule
+    - Safety Management System (ISM Code)
+    - Ship security (ISPS Code)
+    - Environmental policy (MARPOL, emissions, ballast water)
+    - Fuel management & decarbonization (IMO 2020, CII / EEXI)
+    - Vessel chartering policy
+    - Container / equipment management
+    - Port state control & inspection readiness
+- Crew
+    - Crew recruitment & manning agencies
+    - Certification & training (STCW)
+    - Crew contracts, wages & benefits (MLC 2006)
+    - Hours of work & rest
+    - Crew change & repatriation
+    - Medical, health & welfare
+    - Drug & alcohol policy
+    - Onboard conduct & disciplinary procedure
+- Health, Safety & Emergency
+    - Occupational health & safety (shore & sea)
+    - Emergency response & incident reporting
+    - Piracy & security threat response
+    - Business continuity & disaster recovery
+- Legal & Compliance
+    - Anti-bribery & corruption (FCPA, UK Bribery Act)
+    - Sanctions & export control compliance
+    - Anti-money laundering (AML)
+    - Data privacy (GDPR, CCPA, PIPL China, DPDP India, PDPA Singapore)
+    - Competition / antitrust policy
+    - Record retention policy
+- IT & Security
+    - Acceptable use policy
+    - Information security policy
+    - Maritime cyber risk management (IMO guidelines)
+    - Access control & password policy
+- Vendors & Partners
+    - Supplier code of conduct
+    - Procurement policy
+    - Agent & port partner agreements
+- Corporate
+    - ESG / sustainability policy
+    - Corporate social responsibility
+    - Media & communications policy
+
+## Create Company Policy documents for a Atlas Retail Bank with branches across east coast in USA
+- Create HR documents
+    - Employee handbook / code of conduct & ethics
+    - Recruitment, background checks & fingerprinting (FDIC Section 19)
+    - Onboarding, offboarding & access revocation
+    - Compensation, incentives & sales practices (no cross-selling quotas abuse)
+    - Leave, holidays & branch working hours (per state: NY, NJ, MA, PA, MD, VA, NC, SC, GA, FL, etc.)
+    - Performance review & disciplinary procedure
+    - Anti-harassment, diversity & equal opportunity (EEO)
+    - Remote / hybrid work policy (back-office staff)
+    - Whistleblower policy
+    - Mandatory compliance training (BSA/AML, privacy, fair lending)
+    - Personal trading & conflicts of interest
+- Create Customer Documents (Bunch of PDFs, Website Pages)
+    - Account opening
+        - Customer Identification Program (CIP) & KYC requirements
+        - Required ID documents (individuals, joint, minors, businesses)
+        - Beneficial ownership certification (business accounts)
+    - Deposit account agreement & terms and conditions
+    - Truth in Savings disclosures (APY, fees, minimum balances)
+    - Fee schedule (maintenance, ATM, wire, stop payment, NSF)
+    - Overdraft & NSF policy (Reg E opt-in)
+    - Funds availability policy (Regulation CC)
+    - Electronic Fund Transfers / debit card disclosures (Regulation E)
+    - Online & mobile banking terms of use
+    - Zelle / P2P payments, wire transfer & ACH terms
+    - Check deposit & mobile deposit policy
+    - Error resolution & dispute policy (unauthorized transactions)
+    - Fraud protection & identity theft policy
+    - Privacy notice (Gramm-Leach-Bliley Act) & opt-out
+    - Consumer complaints & escalation process
+    - Dormant / unclaimed property policy (state escheatment)
+    - Account closure policy
+    - Safe deposit box agreement
+    - FDIC insurance coverage disclosure
+    - Accessibility (ADA) & language access policy
+    - FAQs
+- Lending
+    - Personal loans & lines of credit
+    - Credit card agreement & disclosures (CARD Act, Truth in Lending / Reg Z)
+    - Mortgage & home equity (RESPA, TRID, HMDA)
+    - Auto loans
+    - Small business lending (SBA loans)
+    - Fair lending policy (ECOA / Reg B, Fair Housing Act)
+    - Credit underwriting & risk policy
+    - Loan servicing, collections & hardship / forbearance policy (FDCPA)
+    - Adverse action notices
+    - Community Reinvestment Act (CRA) policy
+- Branch Operations
+    - Branch opening / closing procedures & dual control
+    - Cash handling, vault & teller limits
+    - ATM operations & servicing
+    - Branch security & robbery response (Bank Protection Act)
+    - Customer service standards & SLAs
+    - Branch emergency & weather closure policy (hurricanes, snowstorms)
+    - Elder financial abuse & vulnerable customer policy
+- Legal & Compliance
+    - Bank Secrecy Act / Anti-Money Laundering (BSA/AML) program
+    - OFAC sanctions screening
+    - Currency Transaction Reports (CTR) & Suspicious Activity Reports (SAR)
+    - UDAAP (unfair, deceptive, abusive practices) policy
+    - Regulatory examination readiness (OCC / FDIC / Fed, CFPB, state regulators)
+    - Anti-bribery & corruption
+    - Record retention policy
+    - Marketing & advertising compliance
+    - Third-party / vendor risk management
+- Risk Management
+    - Enterprise risk management framework
+    - Credit, liquidity & interest rate risk policies
+    - Operational risk & incident management
+    - Model risk management
+    - Business continuity & disaster recovery
+- IT & Security
+    - Acceptable use policy
+    - Information security program (GLBA Safeguards, FFIEC guidelines)
+    - Cybersecurity incident response & breach notification (state laws, NYDFS Part 500)
+    - Access control, MFA & password policy
+    - Data classification & encryption
+    - Payment card data security (PCI DSS)
+- Corporate
+    - Corporate governance & board committees
+    - ESG / sustainability policy
+    - Community engagement & financial literacy
+    - Media & communications policy
+
+## Amerimed Wellness Institute, A major Healthcare services provider in west coast

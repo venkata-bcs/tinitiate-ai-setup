@@ -1,0 +1,122 @@
+# Website copy for OceanX Logistics (fictional). Rendered by _tools/build_sites.py
+meta_description: OceanX Logistics - global ocean container shipping, NVOCC and integrated logistics across 214 ports.
+services_label: Services
+footer_extra: '<a href="../documents/OX-CUS-005-demurrage-detention-surcharges.pdf">Tariffs &amp; surcharges</a>'
+
+home:
+  headline: Every ocean. One promise.
+  intro: >-
+    OceanX Logistics moves the world's cargo across 214 ports with a modern fleet of 59 vessels,
+    end-to-end visibility in OX Navigator, and customs expertise in China, the USA, the EU, India and Singapore.
+  cta: Get a quote
+  cta_href: contact.html
+  stats:
+    - { value: "412,000", label: TEU fleet capacity }
+    - { value: "59", label: Vessels in operation }
+    - { value: "214", label: Ports served }
+    - { value: "46", label: Countries with offices }
+    - { value: "11,000+", label: Seafarers & shore staff }
+  features_title: Why shippers choose OceanX
+  features:
+    - { title: Schedule reliability, text: "86% on-time arrival on Transpacific and Asia-Europe loops in 2025, in the top quartile of carriers." }
+    - { title: OX Navigator, text: "Book, track, file shipping instructions, pay invoices and raise disputes in one portal with live vessel positions." }
+    - { title: Cold-chain expertise, text: "38,000 reefer plugs and remote container monitoring for pharma, seafood and fresh produce." }
+    - { title: Greener shipping, text: "LNG dual-fuel newbuilds, biofuel blends and OX GreenLane certificates covering Scope 3 emissions." }
+  news:
+    - { date: 2026-10-14, text: "OX Nordlys completes her first Asia - North Europe rotation on bio-LNG." }
+    - { date: 2026-09-02, text: "OceanX opens a new customs brokerage desk in Navi Mumbai for Indian importers." }
+    - { date: 2026-07-01, text: "Revised Demurrage, Detention & Surcharges tariff (v5.0) now in force." }
+    - { date: 2026-05-20, text: "Red Sea update: services continue via the Cape of Good Hope; War Risk Surcharge reviewed monthly." }
+
+about:
+  summary: A Singapore-headquartered carrier connecting Asia with the Americas, Europe and the Indian Subcontinent since 1998.
+  mission: Move our customers' cargo safely, reliably and sustainably, while caring for the people who make it happen at sea and ashore.
+  story:
+    - >-
+      OceanX was founded in 1998 by a group of Singaporean ship managers with two 1,100 TEU feeder vessels serving Port Klang,
+      Jakarta and Singapore. Strong intra-Asia growth led to the first deep-sea service, the Transpacific "PNX" loop, in 2006.
+    - >-
+      Today OceanX Logistics Group operates 38 owned and 21 chartered container ships, employs 4,850 shore staff and 6,200
+      seafarers, and runs its own terminals in Singapore and Navi Mumbai. Our regional hubs in Shanghai, Long Beach and Rotterdam
+      bring us close to customers in every major trade lane.
+  values:
+    - { title: Safety first, text: "Anyone, anywhere, may stop work they believe is unsafe." }
+    - { title: Accountability, text: "We own our commitments to customers, colleagues and communities." }
+    - { title: Integrity, text: "Zero tolerance for bribery, sanctions breaches and misdeclaration." }
+    - { title: Long-term thinking, text: "Net-zero owned fleet by 2050; cadet programme training 120 officers a year." }
+  timeline:
+    - { year: 1998, event: "Founded in Singapore with two feeder vessels." }
+    - { year: 2006, event: "First Transpacific service (Shanghai - Long Beach)." }
+    - { year: 2011, event: "Opened OceanX Logistics Europe B.V. in Rotterdam." }
+    - { year: 2015, event: "Launched OX Navigator digital booking portal." }
+    - { year: 2019, event: "Delivery of flagship OX Meridian (15,200 TEU)." }
+    - { year: 2024, event: "First LNG dual-fuel vessel, OX Nordlys, joins the fleet." }
+    - { year: 2026, event: "Customs brokerage expanded to India and the EU." }
+
+services:
+  summary: Ocean freight, logistics and digital services from origin warehouse to final delivery.
+  groups:
+    - group: Ocean freight
+      items:
+        - { title: FCL, text: "20', 40', 40'HC and 45' dry containers on weekly services across six trade lanes." }
+        - { title: LCL consolidation, text: "Weekly consolidations from 40 CFS hubs, priced per cubic metre." }
+        - { title: Reefer, text: "Temperatures from -35°C to +30°C, controlled atmosphere, with live temperature tracking." }
+        - { title: Project & break-bulk, text: "Flat racks, open tops and engineered lashing for oversized cargo." }
+    - group: Logistics
+      items:
+        - { title: Customs brokerage, text: "Licensed brokerage in the USA, EU, India and Singapore; ISF, ICS2 and AMS filing." }
+        - { title: Inland haulage & rail, text: "Carrier haulage door-to-door with rail links from Rotterdam, Long Beach and Nhava Sheva." }
+        - { title: Warehousing, text: "1.2 million sq ft of bonded and general warehousing in 9 countries." }
+        - { title: OceanX Marine Cover, text: "All-risks cargo insurance from 0.18% of insured value." }
+    - group: Digital
+      items:
+        - { title: OX Navigator, text: "Quotes, bookings, documentation, tracking, invoices and disputes in one portal." }
+        - { title: APIs & EDI, text: "DCSA-standard track-and-trace and booking APIs; IFTMIN, IFTSTA and INVOIC EDI." }
+
+policies_intro: >-
+  Customer, HR, fleet and crew policies of OceanX Logistics. All documents are PDFs. Signed service contracts and
+  Bill of Lading terms take precedence where they differ from these policies.
+
+faq_intro: Answers to the questions our customer service teams hear most often.
+faq:
+  - { q: "How do I open an account with OceanX?", a: "Register on OX Navigator and upload your company registration, tax ID and authorised signatory ID. Most accounts are approved within 3 business days. See OX-CUS-001." }
+  - { q: "Which payment methods do you accept in China?", a: "Domestic bank transfer (CNAPS), corporate online banking and, for amounts up to CNY 50,000, Alipay or WeChat Pay corporate accounts. Ocean freight in USD needs SAFE-compliant documents. See OX-CUS-002." }
+  - { q: "Can I pay by UPI in India?", a: "Yes. UPI for business is accepted up to INR 2 lakh per transaction. NEFT and RTGS are available for larger amounts." }
+  - { q: "How long is free time on import containers in the USA?", a: "4 days of demurrage and 4 days of detention on the West Coast; 5 and 4 days on the East and Gulf Coasts. Reefers receive half. See OX-CUS-005." }
+  - { q: "How do I dispute a demurrage invoice?", a: "Use OX Navigator > Billing > Dispute within 30 days of the invoice date. Pay the undisputed amount; the disputed part is put on hold. See OX-CUS-003." }
+  - { q: "Do you ship lithium batteries?", a: "Yes, as Class 9 dangerous goods with a lithium battery declaration. Damaged or recalled batteries are never accepted. See OX-CUS-006." }
+  - { q: "What is the SI cut-off?", a: "48 hours before vessel departure for cargo bound for the US, Canada, the EU and China, because of advance manifest rules." }
+  - { q: "How much is OceanX liable for if my cargo is damaged?", a: "Under the Hague-Visby Rules, 666.67 SDR per package or 2 SDR per kg, whichever is higher. US COGSA limits liability to USD 500 per package. We recommend cargo insurance. See OX-CUS-007." }
+  - { q: "Someone emailed me new OceanX bank details. Is it genuine?", a: "Treat it as fraud until verified. OceanX bank details are only published on OX Navigator and signed invoices. Call +65 6555 0188." }
+
+careers:
+  summary: Join 11,000 people at sea and ashore who keep global trade moving.
+  benefits:
+    - { title: Global mobility, text: "Rotations between Singapore, Shanghai, Long Beach, Rotterdam and Navi Mumbai." }
+    - { title: OceanX Academy, text: "40+ courses in shipping, customs, finance and leadership." }
+    - { title: Cadet programme, text: "120 deck and engine cadets a year, with guaranteed officer roles." }
+    - { title: Wellbeing, text: "16 weeks' parental leave, 24/7 counselling and two volunteering days." }
+  jobs:
+    - { title: Customer Service Executive (Mandarin & English), location: Shanghai, type: Full-time, ref: OX-2026-0412 }
+    - { title: Import Documentation Specialist, location: Long Beach, CA, type: Full-time, ref: OX-2026-0418 }
+    - { title: Customs Broker (Licensed), location: Long Beach, CA, type: Full-time, ref: OX-2026-0421 }
+    - { title: Trade Compliance Analyst - Sanctions, location: Rotterdam, type: Full-time, ref: OX-2026-0433 }
+    - { title: Vessel Planner, location: Singapore, type: Full-time (shift), ref: OX-2026-0440 }
+    - { title: Finance Analyst - Accounts Receivable, location: Navi Mumbai, type: Full-time, ref: OX-2026-0445 }
+    - { title: Second Engineer (LNG dual-fuel), location: Sea-going, type: Contract (4 months), ref: OX-SEA-2026-118 }
+    - { title: Chief Officer, location: Sea-going, type: Contract (4 months), ref: OX-SEA-2026-121 }
+  eeo: OceanX is an equal opportunity employer. We do not charge recruitment fees to any candidate, including seafarers.
+
+contact:
+  summary: Regional offices and 24/7 support for bookings, documentation, billing and emergencies.
+  lines:
+    - { name: Customer onboarding, value: "onboarding@oceanxlogistics.example | +65 6555 0110", hours: "Mon-Fri 08:00-20:00 SGT" }
+    - { name: Bookings & quotes, value: "OX Navigator or bookings@oceanxlogistics.example", hours: "24/7 online" }
+    - { name: Customs, value: "customs@oceanxlogistics.example", hours: "Local business hours" }
+    - { name: Payment fraud hotline, value: "+65 6555 0188 | fraud@oceanxlogistics.example", hours: "24/7" }
+    - { name: Dangerous goods emergency, value: "+65 6555 0911", hours: "24/7" }
+    - { name: SpeakUp (ethics), value: "speakup.oceanxlogistics.example", hours: "24/7, 14 languages" }
+  locations_title: Regional offices
+  location_source: regional_offices
+  location_fields: [region, entity, address, phone, contact]
+  location_headers: [Region, Entity, Address, Phone, Head]

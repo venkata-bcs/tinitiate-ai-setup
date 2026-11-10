@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64">
+  <title>Atlas Retail Bank</title>
+  <rect width="64" height="64" rx="14" fill="#0F4C3A"/>
+  <path d="M12 26 L32 12 L52 26 Z" fill="#C9A227"/>
+  <rect x="14" y="28" width="36" height="3" fill="#C9A227"/>
+  <rect x="17" y="33" width="5" height="16" fill="#FFFFFF"/>
+  <rect x="29.5" y="33" width="5" height="16" fill="#FFFFFF"/>
+  <rect x="42" y="33" width="5" height="16" fill="#FFFFFF"/>
+  <rect x="12" y="51" width="40" height="4" fill="#C9A227"/>
+  <text x="76" y="35" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#0F4C3A">ATLAS</text>
+  <text x="77" y="54" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" letter-spacing="3.6" fill="#8A6D12">RETAIL BANK</text>
+</svg>

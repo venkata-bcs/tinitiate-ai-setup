@@ -1,0 +1,23 @@
+op,customer_id,first_name,last_name,email,phone,address_line,city,state,country,postal_code,created_at,updated_at
+I,287,Devin,Owens,nicholashall@example.com,(856)518-9431x7008,3437 Weiss Square Suite 328,Laurentown,Louisiana,India,37729,2026-08-10T07:28:37.444817+00:00,2026-08-10T07:28:37.444817+00:00
+I,288,Christopher,Hill,brandon07@example.org,584.507.7511x880,994 Wood Path,Kingland,Louisiana,India,70627,2026-08-10T07:25:27.445415+00:00,2026-08-10T07:25:27.445415+00:00
+I,289,Julie,Hoover,amandasimpson@example.net,+1-930-882-6869x66366,601 Payne Rapid Suite 771,Garcialand,Illinois,Christmas Island,92156,2026-08-10T06:14:54.445898+00:00,2026-08-10T06:14:54.445898+00:00
+I,290,Mark,Sanders,mccoycourtney@example.com,+1-534-927-2866x931,8979 Green Path,South Eddie,North Dakota,India,34364,2026-08-11T13:04:20.446311+00:00,2026-08-11T13:04:20.446311+00:00
+I,291,Jessica,Arnold,duffyhannah@example.net,329.793.9261x98160,4398 Smith Junction,Beverlybury,Indiana,India,31730,2026-08-10T17:27:50.446697+00:00,2026-08-10T17:27:50.446697+00:00
+I,292,Stefanie,Stuart,uharvey@example.org,460.849.7554x953,8347 Washington Green,Petersonville,Illinois,India,03663,2026-08-10T06:58:56.447065+00:00,2026-08-10T06:58:56.447065+00:00
+I,293,Abigail,Browning,ianjohnson@example.com,317-434-8703,52177 Alexa Harbor,Lake Michaelhaven,Massachusetts,India,84098,2026-08-10T20:31:10.447406+00:00,2026-08-10T20:31:10.447406+00:00
+I,294,Justin,Harrington,kathrynhernandez@example.com,+1-680-279-1888x2490,29002 Banks Trail Suite 060,Port Scott,Delaware,India,99727,2026-08-11T04:52:21.447848+00:00,2026-08-11T04:52:21.447848+00:00
+I,295,Jonathan,Watson,kelly56@example.net,001-721-485-9285x822,06442 Gerald Flats Suite 449,Lake Luis,South Dakota,New Caledonia,04822,2026-08-09T20:09:58.448257+00:00,2026-08-09T20:09:58.448257+00:00
+I,296,Deborah,Daniels,bernardescobar@example.org,(712)377-7020,2733 Sean Inlet,Laneland,North Carolina,India,90186,2026-08-10T08:35:45.448562+00:00,2026-08-10T08:35:45.448562+00:00
+I,297,Carl,Sherman,thomas79@example.net,282-818-0366x186,87444 Douglas Viaduct,Wilsonhaven,New Hampshire,India,48392,2026-08-11T06:48:39.448914+00:00,2026-08-11T06:48:39.448914+00:00
+I,298,Nicholas,Baxter,shannonsanchez@example.net,001-257-356-0854x3753,53610 Lisa Fords,Benjaminburgh,Montana,India,22158,2026-08-10T01:33:53.449219+00:00,2026-08-10T01:33:53.449219+00:00
+U,169,Jay,Harris,justin83@example.org,(992)814-8338,7556 Eric Squares,East Teresaview,Wyoming,India,35371,,2026-08-11T19:31:40.444786+00:00
+U,270,Brad,Harrington,lross@example.net,(720)328-2645x11321,05608 Durham Fords,South Jennifer,Rhode Island,India,78764,,2026-08-11T19:31:40.444786+00:00
+U,277,Melanie,Love,hhoward@example.net,3412627461,92776 Kathryn Heights Apt. 191,Timothyland,Montana,India,31194,,2026-08-11T19:31:40.444786+00:00
+U,50,Sandy,Hale,brianna28@example.net,(393)701-8252x6621,3335 Winters Fall,Julieview,Rhode Island,India,11715,,2026-08-11T19:31:40.444786+00:00
+U,178,Sandra,Owen,susan72@example.org,001-858-860-2441x304,6978 Golden Trace,Warrenmouth,Arizona,India,15866,,2026-08-11T19:31:40.444786+00:00
+U,174,Adriana,Young,johnstonanna@example.org,(818)884-5694,9340 Gray Gardens Apt. 782,South Angelberg,Illinois,India,93943,,2026-08-11T19:31:40.444786+00:00
+U,130,James,White,curtis80@example.org,+1-277-573-4718,6926 Reed Haven Suite 570,West Annetown,Colorado,India,94629,,2026-08-11T19:31:40.444786+00:00
+U,197,Elizabeth,Taylor,michaelgreen@example.com,343.384.7908x91727,5819 Edwin Burg,North Joshuaborough,New York,India,71409,,2026-08-11T19:31:40.444786+00:00
+D,264,,,,,,,,,,,2026-08-11T19:31:40.444786+00:00
+D,223,,,,,,,,,,,2026-08-11T19:31:40.444786+00:00
